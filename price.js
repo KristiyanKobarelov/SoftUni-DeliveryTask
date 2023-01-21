@@ -23,4 +23,4 @@ function PriceCalculator() {
         }
     }
 }
-console.log(PriceCalculator);
+console.log(PriceCalculator());
